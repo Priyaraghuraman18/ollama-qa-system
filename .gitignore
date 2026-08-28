@@ -1,2 +1,9 @@
 venv/
 __pycache__/
+audio/
+history.json
+question.json
+question.srt
+question.tsv
+question.txt
+question.vtt
